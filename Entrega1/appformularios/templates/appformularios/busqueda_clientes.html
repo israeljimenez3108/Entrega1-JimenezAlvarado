@@ -1,0 +1,15 @@
+{% extends 'appformularios/base.html' %}
+
+{% block contenido %}
+
+<form action="{% url 'entrega-clientes-buscar-resultados' %}" method="get">
+
+    <p>
+        Nombre del cliente: <input type="text" name="nombre_cliente">
+        <input type="submit" value="Buscar">
+    </p>
+
+
+</form>
+
+{% endblock %}
