@@ -16,6 +16,8 @@ Las primeras 3 opciones son para guardar informacion en la tabla correspondiente
 Las otras 3 opciones son de consulta para desplegar la información contenida en la base de datos.
 
 TIP de busqueda:
-Clientes: Mexico
-Productos: Fo
-Sucursales : Almacen
+- Clientes: Mexico
+- Productos: Fo
+- Sucursales : Almacen
+
+Enjoy it!
